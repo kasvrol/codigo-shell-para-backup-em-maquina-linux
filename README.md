@@ -2,7 +2,7 @@
 
 ## Sobre
 
-Código desenvolvido em shell script para a disciplina de Administração de Sistemas no curso de Análise e Desenvolvimento de Sistema ne UFPR
+Código desenvolvido em shell script para a disciplina de Administração de Sistemas no curso de Análise e Desenvolvimento de Sistema na Universidade Federal do Paraná (UFPR).
 
 ## Documentação
 
